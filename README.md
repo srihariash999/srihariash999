@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srihariash999&label=Profile%20views&color=0e75b6&style=flat" alt="srihariash999" /> </p>
 
-- 🔭 I’m currently working on  [what next? app](https://github.com/srihariash999/whatnext_app)
+- 🔭 I’m currently working on [MoneyBoi App](https://github.com/srihariash999/moneyboi) [what next? app](https://github.com/srihariash999/whatnext_app)
 
 - 🌱 I’m currently learning  **Bloc, Riverpod**
 
