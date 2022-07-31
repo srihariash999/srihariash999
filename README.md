@@ -21,10 +21,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></p>
 
+<h3> My TypeRacer Profile </h3>
+<p><a href="https://data.typeracer.com/pit/profile?user=defacto_pun&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=defacto_pun" border="0" alt="TypeRacer.com scorecard for user defacto_pun"/></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srihariash999&show_icons=true&locale=en" alt="srihariash999" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srihariash999&show_icons=true&locale=en" alt="srihariash999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srihariash999&" alt="srihariash999" /></p>
+
 
 
 <div align="center">
