@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MoneyBoi App](https://github.com/srihariash999/moneyboi) [what next? app](https://github.com/srihariash999/whatnext_app)
 
-- 🌱 I’m currently learning  **NodeJs, MongoDb, Bloc, Getx**
+- 🌱 I’m currently learning  **NodeJs, MongoDb, Dotnet, Getx**
 
 - 👯 I’m looking to collaborate on  **Anything flutter related.**
 
